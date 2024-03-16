@@ -39,6 +39,10 @@ Please make sure your solution is accessible online
 
 `npm run dev`
 
+### Run the tests
+
+`npm run test`
+
 ## Things I would have liked to add
 
 - Retry mechanism for API requests
